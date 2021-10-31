@@ -28,7 +28,7 @@ const whoAmI = {
 ```
 
 <p></p>
-<div>
+<div align="right">
   <h3>Languages and Techs</h3>
     <img align="center" alt="iconPython" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="iconHTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
