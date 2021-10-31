@@ -1,3 +1,4 @@
+```javascript
 const whoAmI = {
   name: "Nilton Monteiro Pegas",
   age: 32,
@@ -21,5 +22,16 @@ const whoAmI = {
 > 💞️ I’m looking to collaborate on open-source projects
 > 📫 How to reach me: niltonpegas@id.uff.br
 
+<div>
+  <h2 align="center">More about me... <img src="https://c.tenor.com/l1Ry9iPpuOQAAAAi/fun-fact-dazzle4rare.gif" alt="Hello GIF" width="120px" height="80px"/></h2>
+<div align="center">
+    <a href="https://instagram.com/niltonpegass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/niltonpegass" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://app.rocketseat.com.br/me/niltonpegass" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=for-the-badge" target="_blank"></a>
+  </div>
+</div>
+
+<div align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
