@@ -27,7 +27,7 @@ const whoAmI = {
     <img align="center" alt="iconJAVASCRIPT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div align="center">
+<div align="right">
   <h3>For more contacts...</h3>
      <a href = "mailto:niltonpegas@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/niltonpegass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
