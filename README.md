@@ -19,7 +19,7 @@ const whoAmI = {
   ],
   currentCity: "Volta Redonda - RJ",
   ambitions: [
-    "Getting my first job as a back-end dev",
+    "Getting my first job as a data analyst",
     "Achieving the long-awaited financial independence",
     "Be happy"
   ]
