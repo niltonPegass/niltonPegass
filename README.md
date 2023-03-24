@@ -8,10 +8,10 @@
 
 ```javascript
 const whoAmI = {
-  name: "Nilton Monteiro Pegas",
-  age: 32,
+  name: "Nilton Pegas",
+  age: 33,
   graduation: "Mechanical Engineering",
-  currentCourse: "Rocketseat [back-end developer]",
+  currentCourse: "Business Intelligence & Analytics",
   hobbies: [
     "Walking in nature and capturing images of those moments ",
     "Update me through articles (written and video) on science, technology and politics",
@@ -19,8 +19,9 @@ const whoAmI = {
   ],
   currentCity: "Volta Redonda - RJ",
   ambitions: [
-    "Getting my first job as a data analyst",
-    "Achieving the long-awaited financial independence",
+    "Move to Europe"
+    "Get my first job as a data analyst",
+    "Achieve the long-awaited financial independence",
     "Be happy"
   ]
 }
