@@ -8,9 +8,10 @@
 ```javascript
 const whoAmI = {
   name: "Nilton Pegas",
-  age: 33,
+  age: 34
   graduation: "Mechanical Engineering",
-  currentCourse: "Business Intelligence & Analytics",
+  currentCourse: "Business Intelligence & Analytics" "postgraduate",
+  bootcamps: "Ciência de Dados com Python"
   hobbies: [
     "Walking in nature and capturing images of those moments ",
     "Update me through articles (written and video) on science, technology and politics",
@@ -18,7 +19,6 @@ const whoAmI = {
   ],
   currentCity: "Volta Redonda - RJ",
   ambitions: [
-    "Move to Europe"
     "Get my first job as a data analyst",
     "Achieve the long-awaited financial independence",
     "Be happy"
