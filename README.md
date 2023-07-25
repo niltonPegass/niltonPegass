@@ -13,7 +13,7 @@ const whoAmI = {
   age: 34
   graduation: "Mechanical Engineering",
   currentCourse: "Business Intelligence & Analytics" "postgraduate",
-  bootcamps: "Ciência de Dados com Python"
+  bootcamps: "Ciência de Dados com Python [powered by iFood]"
   hobbies: [
     "Walking in nature and capturing images of those moments ",
     "Update me through articles (written and video) on science, technology and politics",
