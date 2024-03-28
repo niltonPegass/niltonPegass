@@ -1,6 +1,6 @@
 <div align="right">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niltonpegass)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niltonpegass)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niltonpegass)
 [![Email](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:niltonpegas@id.uff.br)<p></p>
 
