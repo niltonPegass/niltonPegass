@@ -14,8 +14,8 @@ const whoAmI = {
   graduation: "Mechanical Engineering",
   currentCourse: "Business Intelligence & Analytics" "postgraduate",
   bootcamps: [
-    "20th first at Ciência de Dados com Python [powered by iFood]"
-    "5th first at Python Data Analytics [powered by Squadio]"
+    "Top 20 at Ciência de Dados com Python [powered by iFood]"
+    "Top 5 at Python Data Analytics [powered by Squadio]"
   hobbies: [
     "Walking in nature and capturing images of those moments ",
     "Update me through articles (written and video) on science, technology and politics",
