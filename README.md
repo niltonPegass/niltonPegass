@@ -9,7 +9,7 @@
 ```javascript
 const whoAmI = {
   name: "Nilton Pegas",
-  age: 34
+  age: 35
   graduation: "Mechanical Engineering",
   currentCourse: "Business Intelligence & Analytics" "postgraduate",
   bootcamps: [
