@@ -12,7 +12,7 @@ const whoAmI = {
   age: 35,
 
   currentLocation: "Volta Redonda - RJ / Brazil",
-  currentPosition: "Market Reasearch and Business Intelligence Analyst at OFS Group"
+  currentPosition: "Market Reasearch and Business Intelligence Analyst at OFS Group",
   postGraduate: "Business Intelligence & Analytics at Conquer Business School",
   graduation: "Mechanical Engineering at Federal Fluminense University"
 
