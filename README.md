@@ -11,8 +11,8 @@ let whoAmI = {
 
   NAME: "Nilton Pegas",
   AGE: 35,
-
   currentLocation: "Volta Redonda - RJ / Brazil",
+
   currentPosition: "Market Reasearch & Business Intelligence Analyst at OFS Group",
   postGraduate: "Business Intelligence & Analytics at Conquer Business School",
   graduation: "Mechanical Engineering at Federal Fluminense University"
