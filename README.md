@@ -8,8 +8,9 @@
 
 ```javascript
 let whoAmI = {
-  name: "Nilton Pegas",
-  age: 35,
+
+  NAME: "Nilton Pegas",
+  AGE: 35,
 
   currentLocation: "Volta Redonda - RJ / Brazil",
   currentPosition: "Market Reasearch & Business Intelligence Analyst at OFS Group",
