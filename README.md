@@ -15,7 +15,7 @@ let whoAmI = {
 
   currentPosition: "Market Reasearch & Business Intelligence Analyst at OFS Group",
   postGraduate: "Business Intelligence & Analytics at Conquer Business School",
-  graduation: "Mechanical Engineering at Federal Fluminense University"
+  graduation: "Mechanical Engineering at Federal Fluminense University",
 
   bootcamps: [
     "Top 20 at Ciência de Dados com Python [powered by iFood]"
