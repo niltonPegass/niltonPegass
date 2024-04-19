@@ -7,7 +7,7 @@
 </div>
 
 ```javascript
-const whoAmI = {
+let whoAmI = {
   name: "Nilton Pegas",
   age: 35,
 
