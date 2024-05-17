@@ -6,7 +6,7 @@
 
 >> bootcamp ranking:  
 [![](https://img.shields.io/badge/Top%206%20(of%2023k+)%20at%20Python%20Data%20Analytics-%23FFFFFF.svg?logo=PowerBI&logoColor=black)](https://web.dio.me/track/bootcamp-squadio?tab=ranking)  
-[![](https://img.shields.io/badge/Top%2017%20(of%2017k+)%20at%20Data%20Science%20with%20Python-%23FFFFFF.svg?logo=Python&logoColor=black)](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=ranking)<p></p>
+[![](https://img.shields.io/badge/Top%2017%20(of%2017k+)%20at%20Data%20Science%20with%20Python-%23FFFFFF.svg?logo=Python&logoColor=black)](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=ranking)
     
 </div>
 
