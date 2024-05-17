@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niltonpegass)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niltonpegass)
-[![Email](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:niltonm.pegas@gmail.com)<p></p>
+[![Email](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:niltonm.pegas@gmail.com)
 
 > bootcamp ranking: 
 [![](https://img.shields.io/badge/Top%206%20(of%2023k+)%20at%20Python%20Data%20Analytics-%23FFFFFF.svg?logo=PowerBI&logoColor=black)](https://web.dio.me/track/bootcamp-squadio?tab=ranking)
