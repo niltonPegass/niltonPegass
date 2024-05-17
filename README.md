@@ -18,8 +18,8 @@ let whoAmI = {
   graduation: "Mechanical Engineering at Federal Fluminense University",
 
   bootcamps: [
-    "Top 20 at Ciência de Dados com Python [powered by iFood]"
-    "Top 5 at Python Data Analytics [powered by Squadio]",
+    "Top 17 (of 17k+) at Ciência de Dados com Python [powered by iFood]](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=ranking)",
+    "Top 6 (of 23k+) at [Python Data Analytics [powered by Squadio]](https://web.dio.me/track/bootcamp-squadio?tab=ranking)"
   ],
 
   hobbies: [
