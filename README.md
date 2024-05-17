@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niltonpegass)
 [![Email](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:niltonm.pegas@gmail.com)<p></p>
 
-[Top 6 (of 23k+) at Python Data Analytics [powered by Squadio]](https://web.dio.me/track/bootcamp-squadio?tab=ranking)
+[Top 6 (of 23k+) at Python Data Analytics [powered by Squadio]](https://web.dio.me/track/bootcamp-squadio?tab=ranking)<p>
 [Top 17 (of 17k+) at Ciência de Dados com Python [powered by iFood]](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=ranking)
 
 </div>
