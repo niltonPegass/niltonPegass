@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:niltonm.pegas@gmail.com)<p></p>
 
 > bootcamp ranking:<p>
-[Top 6 (of 23k+) at Python Data Analytics](https://web.dio.me/track/bootcamp-squadio?tab=ranking)<n>
+[![](https://img.shields.io/badge/Top%206%20(of%2023k+)%20at%20Python%20Data%20Analytics-%23FFFFFF.svg?logo=Python&logoColor=black)](https://web.dio.me/track/bootcamp-squadio?tab=ranking)
 [Top 17 (of 17k+) at Data Science with Python](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?tab=ranking)<p>
     
 </div>
