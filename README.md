@@ -58,7 +58,7 @@ let whoAmI = {
     "Move to another country",
     "Be happy"
   ]
-}
-
 📊 Learning Progress
 <svg width="400" height="120"> <rect width="400" height="120" fill="white"/> <text x="10" y="20" font-size="14" fill="#333">Python & Data Manipulation</text> <rect x="10" y="25" width="320" height="10" fill="#4CAF50"/> <text x="10" y="55" font-size="14" fill="#333">Statistics & Visualization</text> <rect x="10" y="60" width="270" height="10" fill="#2196F3"/> <text x="10" y="90" font-size="14" fill="#333">Machine Learning</text> <rect x="10" y="95" width="210" height="10" fill="#FFC107"/> </svg> </div>
+
+}
