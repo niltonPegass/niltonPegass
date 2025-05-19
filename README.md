@@ -16,15 +16,16 @@ let whoAmI = {
 
   NAME: "Nilton Pegas",
   AGE: 36,
-  currentLocation: "Volta Redonda - RJ / Brazil",
+  currentLocation: "Rio de Janeiro / Brazil",
 
-  currentPosition: "Market Research & Business Intelligence Analyst at OFS Group",
+  currentPosition: "Market Data Analyst at OFS Group",
+
   google certificated: "Google Advanced Data Analytics",
   postGraduate: "Business Intelligence & Analytics at Conquer Business School",
   graduation: "Mechanical Engineering at Federal Fluminense University",
 
   skills: {
-    languages: ["Python", "SQL", "DAX"],
+    languages: ["Python", "SQL"],
     tools: ["Power BI", "Excel", "Jupyter Notebook", "Google Colab"],
     dataScience: ["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
     machineLearning: [
@@ -36,15 +37,15 @@ let whoAmI = {
     ]
   },
 
-  bootcamps: [
-    "Top 6 at Python Data Analytics [powered by Squadio]",
-    "Top 17 at Ciência de Dados com Python [powered by iFood]"
-  ],
-
   currentFocus: [
     "Data Science applied to business scenarios",
     "ML workflows from prototype to insight",
     "Building predictive models with real impact"
+  ],
+
+  bootcamps: [
+    "Top 6 at Python Data Analytics [powered by Squadio]",
+    "Top 17 at Ciência de Dados com Python [powered by iFood]"
   ],
 
   hobbies: [
