@@ -17,23 +17,43 @@ let whoAmI = {
   AGE: 35,
   currentLocation: "Volta Redonda - RJ / Brazil",
 
-  currentPosition: "Market Reasearch & Business Intelligence Analyst at OFS Group",
+  currentPosition: "Market Research & Business Intelligence Analyst at OFS Group",
   postGraduate: "Business Intelligence & Analytics at Conquer Business School",
   graduation: "Mechanical Engineering at Federal Fluminense University",
 
+  skills: {
+    languages: ["Python", "SQL", "DAX"],
+    tools: ["Power BI", "Excel", "Jupyter Notebook", "Google Colab"],
+    dataScience: ["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
+    machineLearning: [
+      "regression models", 
+      "classification models", 
+      "clustering", 
+      "model evaluation", 
+      "hyperparameter tuning"
+    ]
+  },
+
   bootcamps: [
-    "Top 6 at Python Data Analytics [powered by Squadio]"
-    "Top 17 at Ciência de Dados com Python [powered by iFood]",
+    "Top 6 at Python Data Analytics [powered by Squadio]",
+    "Top 17 at Ciência de Dados com Python [powered by iFood]"
+  ],
+
+  currentFocus: [
+    "Data Science applied to business scenarios",
+    "ML workflows from prototype to insight",
+    "Building predictive models with real impact"
   ],
 
   hobbies: [
-    "Walking in nature and capturing images of those moments ",
+    "Walking in nature and capturing images of those moments",
     "Update me through articles (written and video) on science, technology and politics",
     "Nourish me with good food and snacks" /** :p **/
   ],
 
   ambitions: [
     "Become senior in my current field of expertise",
+    "Advance into Data Science & ML projects with strategic value",
     "Achieve the long-awaited financial independence",
     "Move to another country",
     "Be happy"
