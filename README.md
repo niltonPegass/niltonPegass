@@ -26,7 +26,7 @@ Currently deepening my expertise in **Machine Learning workflows** and **end-to-
 
 ---
 
-### 🎓 Education & Credentials
+### 📚 Education & Credentials
 
 | 🎓  | Education    |
 |-----|--------------|
@@ -42,7 +42,7 @@ Currently deepening my expertise in **Machine Learning workflows** and **end-to-
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 | **Languages**  | **Data & Analytics**  | **BI & Visualization**| **Environment** |
 |:----------------:|:-----------------------:|:-----------------------:|:-----------------:|
@@ -51,7 +51,7 @@ Currently deepening my expertise in **Machine Learning workflows** and **end-to-
 
 ---
 
-### 🤖 Machine Learning
+### 🧮 Machine Learning
 
 Areas I actively work with:
 
@@ -63,7 +63,7 @@ Areas I actively work with:
 
 ---
 
-## 🔭 Current Focus
+## 🔍 Current Focus
 
 ```python
 current_focus = [
