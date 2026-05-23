@@ -12,52 +12,46 @@
 
 ```javascript
 let whoAmI = {
-
   NAME: "Nilton Pegas",
   AGE: 36,
   currentLocation: "Rio de Janeiro / Brazil",
-
   currentPosition: "Market Data Analyst at OFS Group",
-
-  google certificated: "Google Advanced Data Analytics",
-  postGraduate: "Business Intelligence & Analytics at Conquer Business School",
-  graduation: "Mechanical Engineering at Federal Fluminense University",
-
-  skills: {
-    languages: ["Python", "SQL"],
-    tools: ["Power BI", "Excel", "Jupyter Notebook", "Google Colab"],
-    dataScience: ["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
-    machineLearning: [
-      "regression models", 
-      "classification models", 
-      "clustering", 
-      "model evaluation", 
-      "hyperparameter tuning"
-    ]
+  education: {
+    certification: "Google Advanced Data Analytics",
+    postGraduate: "Business Intelligence & Analytics — Conquer Business School",
+    graduation: "Mechanical Engineering — Federal Fluminense University"
   },
-
+  skills: {
+    languages:     ["Python", "SQL", "DAX", "M (Power Query)"],
+    databases:     ["Oracle", "SQL Server", "PostgreSQL"],
+    analytics:     ["Power BI", "Excel", "Jupyter Notebook", "Google Colab"],
+    dataWrangling: ["pandas", "numpy", "openpyxl"],
+    visualization: ["matplotlib", "seaborn", "Plotly"],
+    machineLearning: {
+      supervised:   ["Linear/Logistic Regression", "Decision Tree", "Random Forest", "XGBoost"],
+      unsupervised: ["K-Means Clustering", "PCA"],
+      workflow:     ["scikit-learn", "feature engineering", "hyperparameter tuning", "cross-validation"]
+    }
+  },
   currentFocus: [
-    "Data Science applied to business scenarios",
-    "ML workflows from prototype to insight",
-    "Building predictive models with real impact"
+    "End-to-end ML workflows — from raw data to actionable insight",
+    "Dynamic dashboards with real-time parameter passing (Power BI + Oracle SQL)",
+    "Deepening ML theory and practice through ML Zoomcamp"
   ],
-
-  bootcamps: [
-    "Top 6 at Python Data Analytics [powered by Squadio]",
-    "Top 17 at Ciência de Dados com Python [powered by iFood]"
+  achievements: [
+    "Top 6 of 23k+  — Python Data Analytics Bootcamp [Squadio]",
+    "Top 17 of 17k+ — Data Science with Python Bootcamp [iFood]"
   ],
-
   hobbies: [
-    "Walking in nature and capturing images of those moments",
-    "Update me through articles (written and video) on science, technology and politics",
-    "Nourish me with good food and snacks" /** :p **/
+    "Walking in nature and capturing those moments through photography",
+    "Keeping up with science, tech and politics — articles, papers and videos",
+    "Appreciating good food (non-negotiable)"  /** :p **/
   ],
-
   ambitions: [
-    "Become senior in my current field of expertise",
-    "Advance into Data Science & ML projects with strategic value",
-    "Achieve the long-awaited financial independence",
-    "Move to another country",
+    "Become a senior Data/ML professional with real strategic impact",
+    "Ship ML models that solve actual business problems",
+    "Achieve financial independence",
+    "Explore the world",
     "Be happy"
   ]
 }
