@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nilton Pegas
-### Data Analyst · BI Developer · ML Enthusiast
+Data Analyst · **Google‑Certified Advanced Data Analytics** · Machine Learning & Predictive Modeling · Python & SQL
 
 *Turning raw data into decisions that matter*
 
@@ -16,69 +16,50 @@
 
 ---
 
-## 👤 About Me
+### 👤 About Me
 
 Market Data Analyst at **OFS Group** | Rio de Janeiro, Brazil
 
-I work at the intersection of **business analysis** and **data science** — building dashboards, querying large databases, and developing predictive models that generate strategic value. My background in Mechanical Engineering gave me a strong analytical foundation; my journey in data gave me the tools to apply it.
+I work at the intersection of **business analysis** and **data science** - building dashboards, querying large databases, and developing predictive models that generate strategic value. My background in Mechanical Engineering gave me a strong analytical foundation; my journey in data gave me the tools to apply it.
 
 Currently deepening my expertise in **Machine Learning workflows** and **end-to-end data pipelines**, with a focus on projects that bridge the gap between prototype and real business impact.
 
 ---
 
-## 🎓 Education & Credentials
+### 🎓 Education & Credentials
 
-| | |
-|---|---|
-| 🏅 | **Google Advanced Data Analytics** — Google Certificate |
-| 🎓 | **Business Intelligence & Analytics** — Conquer Business School *(Post-Graduate)* |
-| 🎓 | **Mechanical Engineering** — Universidade Federal Fluminense |
-| 🥇 | **Top 6 of 23k+** — Python Data Analytics Bootcamp *(Squadio / DIO)* |
-| 🥇 | **Top 17 of 17k+** — Data Science with Python Bootcamp *(iFood / DIO)* |
+| 🎓  | Education    |
+|-----|--------------|
+| Post-Graduate | **Business Intelligence & Analytics** - Conquer Business School |
+| Bachelor      | **Mechanical Engineering** - Universidade Federal Fluminense    |
 
----
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23F29111.svg?style=flat-square&logo=oracle&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2344A8C0.svg?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Environment**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+| 🥇   | Credentials  |
+|------|--------------|
+| Course      | **Google Advanced Data Analytics** - Google Certificate                |
+| Achievement | **Top 6 of 23k+** - Python Data Analytics Bootcamp *(Squadio / DIO)*   |
+| Achievement | **Top 17 of 17k+** - Data Science with Python Bootcamp *(iFood / DIO)* |
 
 ---
 
-## 🤖 Machine Learning
+### 🛠️ Tech Stack
+
+| **Languages**  | **Data & Analytics**  | **BI & Visualization**| **Environment** |
+|:----------------:|:-----------------------:|:-----------------------:|:-----------------:|
+| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23F29111.svg?style=flat-square&logo=oracle&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%2344A8C0.svg?style=flat-square&logo=python&logoColor=white)<br>![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+
+---
+
+### 🤖 Machine Learning
 
 Areas I actively work with:
 
-- **Supervised Learning** — Regression & Classification models
-- **Unsupervised Learning** — Clustering techniques
-- **Model Evaluation** — Cross-validation, metrics, confusion matrix
-- **Optimization** — Hyperparameter tuning (GridSearch, RandomSearch)
-- **Workflow** — From EDA and feature engineering to deployment-ready insights
+- **Supervised Learning** - Regression & Classification models
+- **Unsupervised Learning** - Clustering techniques
+- **Model Evaluation** - Cross-validation, metrics, confusion matrix
+- **Optimization** - Hyperparameter tuning (GridSearch, RandomSearch)
+- **Workflow** - From EDA and feature engineering to deployment-ready insights
 
 ---
 
@@ -95,20 +76,8 @@ current_focus = [
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niltonPegass&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niltonPegass&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+### ***"Without data, you're just another person with an opinion."*** - W. Edwards Deming
 
 </div>
