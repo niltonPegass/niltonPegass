@@ -1,7 +1,8 @@
 <div align="center">
 
 # Nilton Pegas
-Data Analyst · **Google‑Certified Advanced Data Analytics** · Machine Learning & Predictive Modeling · Python & SQL
+
+Senior Market Intelligence Analyst @ Grupo OFS · Data Scientist · **Google‑Certified Advanced Data Analytics** | Python · SQL · MLOps · Machine Learning & Predictive Modeling | Power BI · Tableau · MLflow
 
 *Turning raw data into decisions that matter*
 
