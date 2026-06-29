@@ -70,7 +70,7 @@ Areas I actively work with:
 ```python
 current_focus = {
     "production_ready_ml": [
-        "Building end-to-end ML pipelines for retail demand forecasting (Prophet + XGBoost)",
+        "Building end-to-end ML pipelines for retail demand forecasting",
         "Applying unsupervised learning for anomaly detection in large-scale transaction data",
         "Customer segmentation with RFM analysis + K-Means on +10M records"
     ],
@@ -80,7 +80,7 @@ current_focus = {
         "Exploring AWS ecosystem: SageMaker, Lambda, S3 (MLOps Zoomcamp)"
     ],
     "genai_and_llms": [
-        "Building modular Python clients for Anthropic and Gemini APIs",
+        "Building modular Python clients for Anthropic, Gemini and other APIs",
         "Local RAG pipelines with LangChain, ChromaDB and Ollama",
         "Agentic workflow automation with LangGraph, LangSmith and N8N"
     ]
