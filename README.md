@@ -2,7 +2,7 @@
 
 # Nilton Pegas
 
-Senior Market Intelligence Analyst @ Grupo OFS · Data Scientist · **Google‑Certified Advanced Data Analytics**
+Senior Data Analyst @ Grupo OFS · Data Scientist · **Google‑Certified Advanced Data Analytics**
 <br>Python · SQL · MLOps · Machine Learning & Predictive Modeling | Power BI · Tableau · MLflow
 
 *Turning raw data into decisions that matter*
@@ -21,7 +21,7 @@ Senior Market Intelligence Analyst @ Grupo OFS · Data Scientist · **Google‑C
 
 ### 👤 About Me
 
-Market Data Analyst at **OFS Group** | Rio de Janeiro, Brazil
+Senior Data Analyst at **OFS Group** | Rio de Janeiro, Brazil
 
 I work at the intersection of **business analysis** and **data science** - building dashboards, querying large databases, and developing predictive models that generate strategic value. My background in Mechanical Engineering gave me a strong analytical foundation; my journey in data gave me the tools to apply it.
 
