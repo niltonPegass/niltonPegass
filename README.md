@@ -68,12 +68,23 @@ Areas I actively work with:
 ## 🔍 Current Focus
 
 ```python
-current_focus = [
-    "Deepening ML workflows applied to business scenarios",
-    "Building end-to-end predictive models with measurable impact",
-    "Advancing SQL & Oracle database optimization skills",
-    "Exploring MLOps fundamentals and model lifecycle management"
-]
+current_focus = {
+    "production_ready_ml": [
+        "Building end-to-end ML pipelines for retail demand forecasting (Prophet + XGBoost)",
+        "Applying unsupervised learning for anomaly detection in large-scale transaction data",
+        "Customer segmentation with RFM analysis + K-Means on +10M records"
+    ],
+    "mlops_and_lifecycle": [
+        "Experiment tracking and model versioning with MLflow + SQLite",
+        "Containerizing ML workflows with Docker and serving via FastAPI",
+        "Exploring AWS ecosystem: SageMaker, Lambda, S3 (MLOps Zoomcamp)"
+    ],
+    "genai_and_llms": [
+        "Building modular Python clients for Anthropic and Gemini APIs",
+        "Local RAG pipelines with LangChain, ChromaDB and Ollama",
+        "Agentic workflow automation with LangGraph, LangSmith and N8N"
+    ]
+}
 ```
 
 ---
