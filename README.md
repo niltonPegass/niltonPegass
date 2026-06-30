@@ -57,11 +57,11 @@ Currently deepening my expertise in **Machine Learning workflows** and **end-to-
 
 Projects and areas I actively work with:
 
-- **Demand Forecasting** — Time series modeling at category and SKU level with Prophet and XGBoost
-- **Anomaly Detection** — Unsupervised approaches applied to large-scale retail transaction data (Isolation Forest, DBSCAN)
-- **Customer Segmentation** — RFM-based clustering with K-Means on multi-million record datasets
-- **Model Optimization** — Hyperparameter tuning with Hyperopt and experiment tracking via MLflow
-- **Neural Networks** — Introductory projects with Keras and TensorFlow covering classification tasks
+- **Demand Forecasting** - Time series modeling at category and SKU level with Prophet and XGBoost
+- **Anomaly Detection** - Unsupervised approaches applied to large-scale retail transaction data (Isolation Forest, DBSCAN)
+- **Customer Segmentation** - RFM-based clustering with K-Means on multi-million record datasets
+- **Model Optimization** - Hyperparameter tuning with Hyperopt and experiment tracking via MLflow
+- **Neural Networks** - Introductory projects with Keras and TensorFlow covering classification tasks
 
 ---
 
@@ -91,6 +91,6 @@ current_focus = {
 
 <div align="center">
 
-***"The goal is to turn data into information, and information into insight."*** — Carly Fiorina
+***"The goal is to turn data into information, and information into insight."*** - Carly Fiorina
 
 </div>
